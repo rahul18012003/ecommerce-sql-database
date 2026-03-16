@@ -1,19 +1,27 @@
-🚀 Just completed my latest portfolio project!
+# E-Commerce Database | Full SQL Project
 
-I built a **complete E-Commerce Database** (MySQL) for a modern online store – exactly like Flipkart/Amazon uses behind the scenes.
+**Technologies**: MySQL | SQL | Database Design
 
-✅ 6 normalized tables (Customers, Products, Orders, Order_Items, Payments, Shipping)  
-✅ Full referential integrity with Foreign Keys  
-✅ Realistic data + business analytics queries  
-✅ Stored Procedures & Views for real-world use  
+## 🚀 Project Overview
+Designed and implemented a complete relational database for a modern e-commerce platform.
 
-I can now answer questions like:
-- Who is our top-spending customer in Hyderabad?
-- What’s the revenue by category?
-- Which orders are pending payment?
+## 📊 Tables Created
+- Customers
+- Categories  
+- Products
+- Orders
+- Order_Items
+- Payments
+- Shipping
 
-Full project (SQL + ER Diagram + Live Demo + Website) → https://github.com/yourusername/ecommerce-sql-database
+## 🔥 Key Features
+- Full normalization and foreign keys
+- Realistic 2026 sample data
+- Ready for business analytics
 
-Open to opportunities in **SQL Development | Database Design | Backend Engineering | Data Analysis** (especially e-commerce roles).
+## 🛠️ How to Run
+1. Run the `ecommerce_schema.sql` file in MySQL Workbench
+2. All tables and data will be created automatically.
 
-#SQL #MySQL #DatabaseDesign #Ecommerce #Portfolio #DataEngineering #Hyderabad
+Built by **Rahul **  - March 2026
+Open to opportunities!
